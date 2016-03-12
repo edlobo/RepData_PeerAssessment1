@@ -91,7 +91,7 @@ DataIn <- DataIn[complete.cases(DataIn),]
         # A: there is an increase in the total steps, however the distribution seems to keep confined to the same ranges 
         
 
-# Question 5. Are there differences in activity patterns between weekdays and weekends?
+# Question 4. Are there differences in activity patterns between weekdays and weekends?
 
         library(lubridate)
         NewDataIn$date <- as.Date(NewDataIn$date)
