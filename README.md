@@ -1,16 +1,11 @@
 ## INTRODUCTION
 
-_____________________________________________________________________________________________________________
-
 In this repository there will be located  all needed files to cover the main objective of first week lesson.
 
 The idea is to show a compiled HTML file produced from some processing code of the data imported in the file repdata-data-activity.zip, which is also provided for own verification and reproducible analisys.
 
 
 ## DATA
-
-_____________________________________________________________________________________________________________
-
 
 List of files provided
 
@@ -42,7 +37,6 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 
 
 ## ASSIGNMENT
-_____________________________________________________________________________________________________________
 
 The way to complete the assignment is to get the raw data  imported into a dataset with the information provided on file "repdata-data-activity.zip"
 
