@@ -1,5 +1,5 @@
 ---
-title: "Course Project 1. Reproducible Research"
+title: "Course Project 1 - Reproducible Research"
 output: html_document
 keep_md: true
 ---
